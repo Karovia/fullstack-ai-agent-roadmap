@@ -197,10 +197,10 @@ ssh-keygen -t ed25519 -C "你的邮箱@example.com"
 ### 3. 上传公钥到 GitHub
 
 ```bash
-cat ~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub 
 ```
 
-复制输出（以 `ssh-ed25519` 开头）。
+复制输出（以 `ssh-ed25519:` 开头）。
 
 打开 GitHub → Settings → SSH and GPG keys → New SSH key → 粘贴 → Save。
 

@@ -1,4 +1,4 @@
-# 🎯 全栈 + AI Agent 学习路线
+# 🎯 全栈 + AI Agent 学习路线（中文）
 
 **简体中文** | [English](README.en.md) | [日本語](README.ja.md)
 
